@@ -1,6 +1,6 @@
 ### OTA_F103VE_STD
 
-###### STM32F103VE标准OTA固件包，目前支持ymodem协议，终端映射串口1，需配合官方STM32通用bootloader使用
+###### STM32F103VE标准OTA固件包，目前支持ymodem协议，终端映射串口1，需配合rt-thread官方STM32通用bootloader使用
 
 其中分区表配置如下
 
